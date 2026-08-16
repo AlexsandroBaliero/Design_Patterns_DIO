@@ -2,7 +2,7 @@ public class EntregaAgendada implements EstrategiaEntrega {
 
     @Override
     public void entregar(String pedidoId, String descricao) {
-        System.out.println("📦 Entregando AGENDADA");
+        System.out.println("   Entregando AGENDADA");
         System.out.println("   Pedido: " + pedidoId);
         System.out.println("   Descrição: " + descricao);
         System.out.println("   Prazo: 14 dias");

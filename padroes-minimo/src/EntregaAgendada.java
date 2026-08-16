@@ -1,6 +1,3 @@
-/**
- * Entrega Agendada: 14 dias, R$ 5
- */
 public class EntregaAgendada implements EstrategiaEntrega {
 
     @Override

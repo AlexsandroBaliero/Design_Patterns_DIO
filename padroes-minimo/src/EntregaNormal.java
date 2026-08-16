@@ -1,6 +1,3 @@
-/**
- * Entrega Normal: 7 dias, R$ 10
- */
 public class EntregaNormal implements EstrategiaEntrega {
 
     @Override

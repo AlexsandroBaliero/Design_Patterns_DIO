@@ -1,6 +1,3 @@
-/**
- * Entrega Express: 1 dia, R$ 25
- */
 public class EntregaExpress implements EstrategiaEntrega {
 
     @Override

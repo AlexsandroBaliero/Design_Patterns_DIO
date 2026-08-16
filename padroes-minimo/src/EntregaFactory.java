@@ -1,7 +1,3 @@
-/**
- * FACTORY PATTERN
- * Responsável por criar a estratégia de entrega correta
- */
 public class EntregaFactory {
 
     public static EstrategiaEntrega criar(String tipo) {
